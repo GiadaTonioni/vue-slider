@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    width: 500px;
+}
+
+.card {
+    width: 100%;
+    position: relative;
+}
+
+.navigator{
+    position:absolute;
+    top: 50%;
+}
+
+.prev, .next{
+    background-color: white;
+}
